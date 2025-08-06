@@ -1,0 +1,1 @@
+puts "Given an image as input, this script generates its ASCII art."
